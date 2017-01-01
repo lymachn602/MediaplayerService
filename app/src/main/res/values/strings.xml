@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MediaplayerService</string>
+    <string name="stopServiceMusic">使用服务停止播放音乐</string>
+    <string name="startServiceMusic">使用服务开始播放音乐</string>
+</resources>
